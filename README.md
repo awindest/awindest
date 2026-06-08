@@ -8,7 +8,7 @@
 ---
 #### 🛠️ Languages & Tools:
 
-<div class="themed-box">
+<div>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
