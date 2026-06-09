@@ -20,6 +20,9 @@
   
   <a href="https://svelte.dev/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Svelte" alt="Svelte" width="40" height="40"/></a>&nbsp;&nbsp;
+
+  <a href="https://pnpm.io/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pnpm/pnpm-original.svg" title="Svelte" alt="Svelte" width="40" height="40"/></a>&nbsp;&nbsp;
   
   <a href="https://threejs.org/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Threejs" alt="Threejs" width="40" height="40"/></a>&nbsp;&nbsp;
@@ -28,7 +31,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;&nbsp;
   
   <a href="https://www.anaconda.com/">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/></a>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/></a>&nbsp;&nbsp;
   
   <a href="https://threejs.org/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" title="Threejs" alt="Threejs" width="40" height="40"/></a>&nbsp;&nbsp;
@@ -36,42 +39,55 @@
   <a href="https://nodejs.org/en">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/></a>&nbsp;&nbsp;
 
- <a href="https://git-scm.com/">
+  <a href="https://git-scm.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/></a>&nbsp;&nbsp;
 
  <a href="https://github.com/">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/></a>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/></a>&nbsp;&nbsp;
 
-   <a href="https://getbootstrap.com/">
+  <a href="https://getbootstrap.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/></a>&nbsp;&nbsp;
 
-   <a href="https://tailwindcss.com/">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://tailwindcss.com/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/></a>&nbsp;&nbsp;
 
-   <a href="https://storybook.js.org/">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="40" height="40"/>
+  <a href="https://storybook.js.org/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="40" height="40"/>
    </a>&nbsp;&nbsp;
  
-   <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/></a>&nbsp;&nbsp;
   
-   <a href="https://www.postgresql.org/">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/></a>&nbsp;&nbsp;
 
-   <a href="https://processing.org/">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" title="processing" alt="processing" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://processing.org/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" title="processing" alt="processing" width="40" height="40"/></a>&nbsp;&nbsp;
 
-   <a href="https://d3js.org/">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" title="d3js" alt="d3js" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://d3js.org/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" title="d3js" alt="d3js" width="40" height="40"/></a>&nbsp;&nbsp;
   
   <a href="https://www.docker.com/">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Apache Kafka" alt="apachekafka" width="40" height="40"/></a>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Apache Kafka" alt="apachekafka" width="40" height="40"/></a>&nbsp;&nbsp;
 
-   <a href="https://dbeaver.io/">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" title="dbeaver" alt="dbeaver" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://dbeaver.io/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" title="dbeaver" alt="dbeaver" width="40" height="40"/></a>&nbsp;&nbsp;
 
-   <a href="">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" title="dbeaver" alt="dbeaver" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/></a>&nbsp;&nbsp;
+
+  <a href="https://www.microsoft.com/en-us/sql-server">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="40" height="40"/></a>&nbsp;&nbsp;
+
+  <a href="https://www.mysql.com/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mySQL" alt="mySQL" width="40" height="40"/></a>&nbsp;&nbsp;
+
+
+  <a href="https://brew.sh/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/homebrew/homebrew-original.svg" title="Homebrew" alt="Homebrew" width="40" height="40"/></a>&nbsp;&nbsp;
+
+  <a href="https://vercel.com/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="Homebrew" alt="Homebrew" width="40" height="40"/></a>&nbsp;&nbsp;
 
 
   <a href="https://www.blender.org/">
@@ -80,21 +96,33 @@
   <a href="https://www.figma.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/></a>&nbsp;&nbsp;
 
+  <a href="https://inkscape.org/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="figma" alt="figma" width="40" height="40"/></a>&nbsp;&nbsp;
+
   <a href="https://aws.amazon.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon Web Services" alt="Amazon Web Services"" width="40" height="40"/></a>&nbsp;&nbsp;
+
+  <a href="https://linkedin.com/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Amazon Web Services" alt="Amazon Web Services"" width="40" height="40"/></a>&nbsp;&nbsp;
 
   <a href="https://code.visualstudio.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/></a>&nbsp;&nbsp;
 
+  <a href="https://www.markdownguide.org/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="vscode" alt="vscode" width="40" height="40"/></a>&nbsp;&nbsp;
+
   <a href="https://www.apple.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="apple" alt="apple" width="40" height="40"/></a>&nbsp;&nbsp;
 
- <a href="https://www.kali.org/">
+  <a href="https://www.kali.org/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/kalilinux/kalilinux-original.svg" title="Kali Linux" alt="Kali Linux" width="40" height="40"/></a>&nbsp;&nbsp;
 
 
   <a href="https://www.google.com/chrome/">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="chrome" alt="chrome" width="40" height="40"/></a>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="chrome" alt="chrome" width="40" height="40"/></a>&nbsp;&nbsp;
+
+  <a href="https://www.salesforce.com/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" title="chrome" alt="chrome" width="40" height="40"/></a>&nbsp;&nbsp;
 
 </div>
 
