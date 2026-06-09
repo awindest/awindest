@@ -22,7 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Svelte" alt="Svelte" width="40" height="40"/></a>&nbsp;&nbsp;
 
   <a href="https://pnpm.io/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pnpm/pnpm-original.svg" title="Svelte" alt="Svelte" width="40" height="40"/></a>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pnpm/pnpm-original.svg" title="pnpm" alt="pnpm" width="40" height="40"/></a>&nbsp;&nbsp;
   
   <a href="https://threejs.org/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Threejs" alt="Threejs" width="40" height="40"/></a>&nbsp;&nbsp;
@@ -33,14 +33,12 @@
   <a href="https://www.anaconda.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/></a>&nbsp;&nbsp;
   
-  <a href="https://threejs.org/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" title="Threejs" alt="Threejs" width="40" height="40"/></a>&nbsp;&nbsp;
   
   <a href="https://nodejs.org/en">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/></a>&nbsp;&nbsp;
 
   <a href="https://git-scm.com/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/></a>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="40" height="40"/></a>&nbsp;&nbsp;
 
  <a href="https://github.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/></a>&nbsp;&nbsp;
@@ -49,7 +47,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/></a>&nbsp;&nbsp;
 
   <a href="https://tailwindcss.com/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/></a>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/></a>&nbsp;&nbsp;
 
   <a href="https://storybook.js.org/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="40" height="40"/>
@@ -57,12 +55,7 @@
  
   <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/></a>&nbsp;&nbsp;
-  
-  <a href="https://www.postgresql.org/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/></a>&nbsp;&nbsp;
 
-  <a href="https://processing.org/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" title="processing" alt="processing" width="40" height="40"/></a>&nbsp;&nbsp;
 
   <a href="https://d3js.org/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" title="d3js" alt="d3js" width="40" height="40"/></a>&nbsp;&nbsp;
@@ -82,12 +75,14 @@
   <a href="https://www.mysql.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mySQL" alt="mySQL" width="40" height="40"/></a>&nbsp;&nbsp;
 
-
+  <a href="https://processing.org/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" title="Processing" alt="Processing" width="40" height="40"/></a>&nbsp;&nbsp;
+  
   <a href="https://brew.sh/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/homebrew/homebrew-original.svg" title="Homebrew" alt="Homebrew" width="40" height="40"/></a>&nbsp;&nbsp;
 
   <a href="https://vercel.com/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="Homebrew" alt="Homebrew" width="40" height="40"/></a>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="Vercel" alt="Vercel" width="40" height="40"/></a>&nbsp;&nbsp;
 
 
   <a href="https://www.blender.org/">
