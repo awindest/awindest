@@ -61,13 +61,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" title="d3js" alt="d3js" width="40" height="40"/></a>&nbsp;&nbsp;
   
   <a href="https://www.docker.com/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Apache Kafka" alt="apachekafka" width="40" height="40"/></a>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/></a>&nbsp;&nbsp;
+
+  <a href="https://www.docker.com/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka" alt="apachekafka" width="40" height="40"/></a>&nbsp;&nbsp;
 
   <a href="https://dbeaver.io/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" title="dbeaver" alt="dbeaver" width="40" height="40"/></a>&nbsp;&nbsp;
 
   <a href="https://www.postgresql.org/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/></a>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/></a>&nbsp;&nbsp;
 
   <a href="https://www.microsoft.com/en-us/sql-server">
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="40" height="40"/></a>&nbsp;&nbsp;
@@ -77,7 +80,7 @@
 
   <a href="https://processing.org/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" title="Processing" alt="Processing" width="40" height="40"/></a>&nbsp;&nbsp;
-  
+
   <a href="https://brew.sh/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/homebrew/homebrew-original.svg" title="Homebrew" alt="Homebrew" width="40" height="40"/></a>&nbsp;&nbsp;
 
@@ -86,38 +89,38 @@
 
 
   <a href="https://www.blender.org/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" alt="blender" width="40" height="40"/></a>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="blender" width="40" height="40"/></a>&nbsp;&nbsp;
   
   <a href="https://www.figma.com/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/></a>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="Figma" width="40" height="40"/></a>&nbsp;&nbsp;
 
   <a href="https://inkscape.org/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="figma" alt="figma" width="40" height="40"/></a>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="Inkscape" alt="Inkscape" width="40" height="40"/></a>&nbsp;&nbsp;
 
   <a href="https://aws.amazon.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon Web Services" alt="Amazon Web Services"" width="40" height="40"/></a>&nbsp;&nbsp;
 
   <a href="https://linkedin.com/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Amazon Web Services" alt="Amazon Web Services"" width="40" height="40"/></a>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a>&nbsp;&nbsp;
 
   <a href="https://code.visualstudio.com/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/></a>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/></a>&nbsp;&nbsp;
 
   <a href="https://www.markdownguide.org/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="vscode" alt="vscode" width="40" height="40"/></a>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/></a>&nbsp;&nbsp;
 
   <a href="https://www.apple.com/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="apple" alt="apple" width="40" height="40"/></a>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40"/></a>&nbsp;&nbsp;
 
   <a href="https://www.kali.org/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/kalilinux/kalilinux-original.svg" title="Kali Linux" alt="Kali Linux" width="40" height="40"/></a>&nbsp;&nbsp;
 
 
   <a href="https://www.google.com/chrome/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="chrome" alt="chrome" width="40" height="40"/></a>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Chrome" alt="Chrome" width="40" height="40"/></a>&nbsp;&nbsp;
 
   <a href="https://www.salesforce.com/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" title="chrome" alt="chrome" width="40" height="40"/></a>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" title="Salesforce" alt="Salesforce" width="40" height="40"/></a>&nbsp;&nbsp;
 
 </div>
 
