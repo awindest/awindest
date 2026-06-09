@@ -3,7 +3,7 @@
 - I’m a hobbyist hacker
 - I live in the eastern part of the 🇺🇸 United States
 - I work in the ⛓️ supply chain risk management space
-- In my spare time I enjoy learning ✨ AI,playing 🎸 guitar, 🏖️ traveling and deluding myself into thinking I'm an 🎨  artist
+- In my spare time I enjoy learning ✨ AI, playing 🎸 guitar, 🏖️ traveling and deluding myself into thinking I'm an 🎨  artist
 
 ---
 #### 🛠️ Languages & Tools:
