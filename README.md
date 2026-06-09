@@ -138,34 +138,6 @@
 </div>
 
 ---
-# Hi there, I'm Bill Indest! 👋
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://vercel.app">
-  <source media="(prefers-color-scheme: light)" srcset="https://vercel.app">
-  <img alt="GitHub Stats" src="https://vercel.app">
-</picture>
-
-## 🚀 About Me
-- 💻 Currently working with **Python**, **JavaScript**, and **AI Frameworks** [javascript js, pydantic-ai, how leverage local LLMs for data analytics]
-- 🛠️ Building responsive layouts using **Tailwind CSS** and **Material UI** [material ui?, tailwind]
-- 🎨 Creating 3D elements and assets in **Blender** [blender graphic website, 3d text]
-
-## 🛠️ Tech Stack & Tools
-<!-- Using transparent shields/badges that adapt safely to light and dark backgrounds -->
-![Python](https://shields.io)
-![JavaScript](https://shields.io)
-![Git](https://shields.io)
-![Docker](https://shields.io)
-
-## 📈 My GitHub Activity
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://herokuapp.com">
-    <source media="(prefers-color-scheme: light)" srcset="https://herokuapp.com">
-    <img alt="GitHub Streak" src="https://herokuapp.com">
-  </picture>
-</p>
 
 <!-- <style>
   .themed-box {
